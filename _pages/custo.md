@@ -15,7 +15,11 @@ image: paredes-auditorio.jpg
 
 ## Quarteto Douro
 
-**cachet por** Concerto    *2400€*   	                
+**cachet por** Concerto    *2000€*   
+
+## Camerata NovNorte
+
+**cachet por** Concerto    *3500€*
 
 
 Entidade jurídica:  
