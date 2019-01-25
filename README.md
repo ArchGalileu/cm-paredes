@@ -1,1 +1,1 @@
-# cm-paredes
+# Município de Paredes
