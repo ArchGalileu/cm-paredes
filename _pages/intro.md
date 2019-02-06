@@ -4,10 +4,11 @@ id: 1
 title: Introdução
 layout: page
 #categories: topics
-excerpt: 2019
+excerpt: 2020 - 2022
 permalink: intro
 background-image: paredes-casadacultura.jpg
 image: paredes-casadacultura.jpg
+pdf: true
 ---
 
 ###### A/c da Vereadora da Cultura do Município de Paredes
@@ -42,3 +43,4 @@ Gaspar Santos e Radu Ungureanu, pelo Quarteto Douro e Camerata NovNorte
   
 Seguir para o [Programa](/programa)
 
+{{ page.pdf_url }}
