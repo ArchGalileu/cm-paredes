@@ -31,7 +31,7 @@ A nossa proposta:
 
 - Os concertos podiam ser precedidos por uma breve apresentação das ideias e da problemática desenvolvidas, que poderá ser feita pelo 1º Violino do Quarteto Douro, Prof. Doutor Radu Ungureanu, ou por uma pessoa indicada pela Sra. Vereadora.  
   
-- A nossa sugestão seria de apresentar 5 ou 6 concertos por ano, com início em 2019 e, até aos finais de 2021 a Integral dos Quartetos de Beethoven será finalizada.  
+- A nossa sugestão seria de apresentar 6 por ano *(3 pelo Quarteto Douro + 3 pela Camerata NovNorte)*, com **início em 2020 e, até aos finais de 2022 a Integral dos Quartetos de Beethoven será finalizada**.  
   
 A estrutura dos primeiros programas encontra-se em anexo. Se solicitado, sempre podíamos rever os conteúdos em conformidade com as eventuais sugestões.  
   
