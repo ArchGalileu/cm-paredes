@@ -11,6 +11,11 @@ image: beethoven.jpg
 ---
 #### Obras primas para ensemble de cordas
 
+## 5 ou 12 de Março (Quarteto Douro)
+## 10 de Junho (Camerata NovNorte) Dia de Camões
+## 1 de Outubro (Quarteto Douro) Dia da Música **porque não este ano?**
+## 17 de Dezembro (Camerata NovNorte)
+
 ## Camerata NovNorte
 ---
 

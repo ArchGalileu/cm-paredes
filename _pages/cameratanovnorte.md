@@ -25,4 +25,6 @@ A atividade da Camerata NovNorte concretiza-se em concertos pelo Norte do país:
 
 A Camerata participou em festivais como FAN de Vila Real e Bragança (2012), FIMU de Belfort, França (2014 e 2017) e Gaia World Music (2014, 2015 e 2016).
 Apresentou-se em Palência, Espanha (2015) e ainda Valladolid, Espanha (2015) e Benavente, Espanha (2015).
-A orquestra realizou a gravação para a banda sonora do filme “La revoyure” de Saguenail.
+A orquestra realizou a gravação para a banda sonora do filme “La revoyure” de Saguenail.  
+  
+**Arcos de Valdevez**
